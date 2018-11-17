@@ -1,2 +1,2 @@
 # html-css
-шаблон landing page
+Макет landing page
