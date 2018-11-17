@@ -1,2 +1,2 @@
-# hyml-css
+# html-css
 шаблон landing page
